@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="test_mainactivity">Test MainActivity</string>
+    <string name="next_button_text">Next</string>
+    <string name="back_button_text">Back</string>
+    <string name="user_to_be_typed">Manolo</string>
+    <string name="password_to_be_typed">1234</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logged">Logged</string>
+    <string name="wellcome_back">Wellcome Back Username</string>
+</resources>
